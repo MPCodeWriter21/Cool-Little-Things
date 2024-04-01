@@ -5,7 +5,8 @@ The code is a simple proof of concept of creating famous C++, `std::cin` and `st
 objects in Python.
 
 > [!NOTE]
-> Functions like `cin.ignore`, `cin.fail`, `setw` etc. are not defined in the code here.
+> Functions like `cin.ignore`, `cin.fail`, `setw` etc. are not implemented in the
+> code here.
 
 > [!CAUTION]
 > This is not meant to efficient!
